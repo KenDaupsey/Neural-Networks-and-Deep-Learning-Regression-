@@ -25,7 +25,8 @@ Run the Python script containing the code.
 The script will load the dataset, select the desired features and target variable, split the data into training and testing sets, standardize the data, build and train the neural network regression model, evaluate its performance on the test set, plot the training and validation loss curves, and demonstrate how to use the trained model for making predictions on a new data point.
 
 Dataset
-The dataset used in this project is available at the following URL: https://raw.githubusercontent.com/KenDaupsey/Decision-Tree-Linear-Regression-and-Prediction-/main/hsb2%7Edata.csv
+The dataset used in this project is available at the following URL: #Load dataset
+url= "https://raw.githubusercontent.com/KenDaupsey/Neural-Networks-and-Deep-Learning-Regression-/main/hsb2%7Edata.csv"
 
 Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
